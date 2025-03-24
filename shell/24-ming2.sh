@@ -1,0 +1,1 @@
+sh mysql_to_hdfs.sh all
